@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Pronouns: They/Them
+### 😄 Pronouns: They/Them
 
 <!--
 **QuangoEnterprise/QuangoEnterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
